@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">E-Register</string>
+    <string name="action_settings">Get Report</string>
+    <string-array name="items">
+        <item>IN</item>
+        <item>OUT</item>
+    </string-array>
+    <string-array name="purpose">
+        <item>OFFICE</item>
+        <item>VENDOR</item>
+        <item>MAINTENANCE</item>
+    </string-array>
+    <string-array name="outType">
+        <item>OFFICE</item>
+        <item>VENDOR/MAINTENANCE</item>
+    </string-array>
+</resources>
